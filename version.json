@@ -1,7 +1,9 @@
 {
-  "version": "1.2.0",
-  "notes": "1.2 になった",
-  "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.2.0/DemoApp-1.2.0.zip",
-  "size": 45888854,
-  "sha256": "1b792b3ce23dd3a6c94ca4d38fc2a366a59bd22ea922b3f88a1c82f57cb767c5"
+  "version": "1.0.0",
+  "notes": "初回版です",
+  "url": "",
+  "size": 0,
+  "sha256": "",
+  "diffs": {},
+  "手渡し": true
 }
