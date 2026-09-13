@@ -1,8 +1,30 @@
 {
-  "version": "1.1.0",
-  "notes": "練習",
-  "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.0/DemoApp-1.1.0.zip",
-  "size": 46001869,
-  "sha256": "c35a223b5deac675cc7f266de0f4d8b1a26561938b0a8d1c145d6ac4f35681ba",
-  "diffs": {}
+  "version": "1.0.4",
+  "notes": "アップデートがうまくいかないことがある不具合を修正しました。写真を登録する場所の指定が正しく働かない不具合も修正しています。",
+  "url": "",
+  "size": 0,
+  "sha256": "",
+  "diffs": {
+    "1.0.0": {
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.4/InstagramTools-1.0.0-to-1.0.4.zip",
+      "size": 69020047,
+      "sha256": "1037db5cd2783fa13cc5b94e3958e7b42d6d13a1fd8fdc58ddecc92f199d7836"
+    },
+    "1.0.1": {
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.4/InstagramTools-1.0.1-to-1.0.4.zip",
+      "size": 68681485,
+      "sha256": "89313be80c753b7840943bbc2d8746b039e61935fcf11935a51d554f6bb07c0b"
+    },
+    "1.0.2": {
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.4/InstagramTools-1.0.2-to-1.0.4.zip",
+      "size": 68681485,
+      "sha256": "89313be80c753b7840943bbc2d8746b039e61935fcf11935a51d554f6bb07c0b"
+    },
+    "1.0.3": {
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.4/InstagramTools-1.0.3-to-1.0.4.zip",
+      "size": 68681485,
+      "sha256": "89313be80c753b7840943bbc2d8746b039e61935fcf11935a51d554f6bb07c0b"
+    }
+  },
+  "丸ごとは配れない": true
 }
