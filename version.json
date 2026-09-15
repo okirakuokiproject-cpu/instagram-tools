@@ -1,39 +1,44 @@
 {
-  "version": "1.0.6",
-  "notes": "開発者に渡すものを、Googleドライブに置けるようになりました。\n写真のデータを置いてはいけない場所を選べないようにしました。\n連写の中から、レタッチした1枚のもとになったコマを候補に出します。",
+  "version": "1.0.7",
+  "notes": "場所を計算していたのをやめて、覚えるようにした（台帳）\n探さない／黙って作らない／書き戻さないの3つを決まりにして、道具で見張る\n「データの場所」を1画面にまとめた（11項目）\nアプリの中にあったものを、人の承認を得てから置き場へ引っ越す\n控えが控えになっていなかったのを直した（WAL）\n閉じるときに畳むようにした（WAL）",
   "url": "",
   "size": 0,
   "sha256": "",
   "diffs": {
     "1.0.0": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.6/InstagramTools-1.0.0-to-1.0.6.zip",
-      "size": 69054720,
-      "sha256": "e2c146b35ac8ab66ccf133bfa6d552e264ec2b495d8559eada14950d422d5be2"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.7/InstagramTools-1.0.0-to-1.0.7.zip",
+      "size": 69081728,
+      "sha256": "4a77377745fbe4f61385d4db7ae5497f284b201b75611086bec8c05a16fad235"
     },
     "1.0.1": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.6/InstagramTools-1.0.1-to-1.0.6.zip",
-      "size": 68716158,
-      "sha256": "fc7525ccde1181551736e4c7f3f4e7013882ddc3e1ecbfa594ff4b47d6e77d53"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.7/InstagramTools-1.0.1-to-1.0.7.zip",
+      "size": 68743166,
+      "sha256": "6f330e15b638273904edafea3925e91575781f29af8d843c189356b6ea70fe19"
     },
     "1.0.2": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.6/InstagramTools-1.0.2-to-1.0.6.zip",
-      "size": 68716158,
-      "sha256": "fc7525ccde1181551736e4c7f3f4e7013882ddc3e1ecbfa594ff4b47d6e77d53"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.7/InstagramTools-1.0.2-to-1.0.7.zip",
+      "size": 68743166,
+      "sha256": "6f330e15b638273904edafea3925e91575781f29af8d843c189356b6ea70fe19"
     },
     "1.0.3": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.6/InstagramTools-1.0.3-to-1.0.6.zip",
-      "size": 68716158,
-      "sha256": "fc7525ccde1181551736e4c7f3f4e7013882ddc3e1ecbfa594ff4b47d6e77d53"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.7/InstagramTools-1.0.3-to-1.0.7.zip",
+      "size": 68743166,
+      "sha256": "6f330e15b638273904edafea3925e91575781f29af8d843c189356b6ea70fe19"
     },
     "1.0.4": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.6/InstagramTools-1.0.4-to-1.0.6.zip",
-      "size": 68716158,
-      "sha256": "fc7525ccde1181551736e4c7f3f4e7013882ddc3e1ecbfa594ff4b47d6e77d53"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.7/InstagramTools-1.0.4-to-1.0.7.zip",
+      "size": 68743166,
+      "sha256": "6f330e15b638273904edafea3925e91575781f29af8d843c189356b6ea70fe19"
     },
     "1.0.5": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.6/InstagramTools-1.0.5-to-1.0.6.zip",
-      "size": 68716158,
-      "sha256": "fc7525ccde1181551736e4c7f3f4e7013882ddc3e1ecbfa594ff4b47d6e77d53"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.7/InstagramTools-1.0.5-to-1.0.7.zip",
+      "size": 68743166,
+      "sha256": "6f330e15b638273904edafea3925e91575781f29af8d843c189356b6ea70fe19"
+    },
+    "1.0.6": {
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.0.7/InstagramTools-1.0.6-to-1.0.7.zip",
+      "size": 68743166,
+      "sha256": "6f330e15b638273904edafea3925e91575781f29af8d843c189356b6ea70fe19"
     }
   },
   "丸ごとは配れない": true
