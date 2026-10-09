@@ -1,89 +1,94 @@
 {
-  "version": "1.1.6",
-  "notes": "AI画像検索、サムネイルキャッシュを使い様々な場面で高速化など多数。",
+  "version": "1.1.7",
+  "notes": "HDD移設対応、プレビュー閲覧からオリジナルに確定ができるようになった、範囲選択で投稿画像を指定して開けるようになった",
   "url": "",
   "size": 0,
   "sha256": "",
   "diffs": {
     "1.0.0": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.0.0-to-1.1.6.zip",
-      "size": 69702228,
-      "sha256": "4c0a46ba06bef55a58c9d6b80b7768c04fb8e107a8afb30a937ef63feb2f0f17"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.0.0-to-1.1.7.zip",
+      "size": 69762821,
+      "sha256": "8c6f0bb5e2c3007b99fed5d96ddfca0a057f89ff3b36f1d9c0102a572b544115"
     },
     "1.0.1": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.0.1-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.0.1-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.0.2": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.0.2-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.0.2-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.0.3": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.0.3-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.0.3-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.0.4": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.0.4-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.0.4-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.0.5": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.0.5-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.0.5-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.0.6": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.0.6-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.0.6-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.0.7": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.0.7-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.0.7-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.0.8": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.0.8-to-1.1.6.zip",
-      "size": 69626000,
-      "sha256": "c28aba2df2327104c79a56b36acfbd9367a686cab91aec8273dc5c3746abc614"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.0.8-to-1.1.7.zip",
+      "size": 69686593,
+      "sha256": "cb15c5c4fc899502f64791153493fcd3d409a40adc59d3e0ace2d52b429b2ea5"
     },
     "1.0.9": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.0.9-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.0.9-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.1.0": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.1.0-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.1.0-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.1.1": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.1.1-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.1.1-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.1.2": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.1.2-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.1.2-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.1.3": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.1.3-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.1.3-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.1.4": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.1.4-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.1.4-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     },
     "1.1.5": {
-      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.6/InstagramTools-1.1.5-to-1.1.6.zip",
-      "size": 69363666,
-      "sha256": "3acc0f6b3525e76df3f2389f3d1d11935b316ea87c0c49758ff92b47ce1c9cf5"
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.1.5-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
+    },
+    "1.1.6": {
+      "url": "https://github.com/okirakuokiproject-cpu/instagram-tools/releases/download/v1.1.7/InstagramTools-1.1.6-to-1.1.7.zip",
+      "size": 69424259,
+      "sha256": "b3e17a72532b299a5cf4b994f8856ca732c4e5b48cf4c77e1b18c7b781d42dbb"
     }
   },
   "丸ごとは配れない": true
